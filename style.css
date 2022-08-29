@@ -52,7 +52,6 @@ body{
 .description{
     display: flex;
     flex-direction: column;
-    margin-left: 20px;
 }
 .title{
     font-size: 1.7rem;
@@ -159,6 +158,7 @@ em{
     }
     .desccription{
         text-align: left;
+        margin-left: 20px;
     }
     .title{
         margin: 30px 20px 0 0 ;
